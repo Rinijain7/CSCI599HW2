@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+
+import json
+
+out = []
+c = 0
+with open('clusters.json', 'rb') as f:
+    fil = eval(f.read())
+    for r in fil['children']:
+        out.append(r['name'])
+        for m in r['children']:
+            out.append(m['name'])
+            c+=1
+            

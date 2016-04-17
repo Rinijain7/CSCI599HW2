@@ -1,0 +1,55 @@
+[{
+    "text": "WEIGHT_SYMBOL",
+    "size": 6
+}, {
+    "text": "SPEED_SYMBOLS",
+    "size": 6
+}, {
+    "text": "ORGANIZATION",
+    "size": 30
+}, {
+    "text": "LOCATION",
+    "size": 34
+}, {
+    "text": "DISTANCE_STRING",
+    "size": 11
+}, {
+    "text": "HEAT_STRING",
+    "size": 4
+}, {
+    "text": "PRESSURE_SYMBOL",
+    "size": 8
+}, {
+    "text": "HEAT_SYMBOL",
+    "size": 4
+}, {
+    "text": "PRESSURE_STRING",
+    "size": 10
+}, {
+    "text": "WEIGHT_STRING",
+    "size": 6
+}, {
+    "text": "DISTANCE_SYMBOL",
+    "size": 7
+}, {
+    "text": "PERCENTAGE",
+    "size": 19
+}, {
+    "text": "TIME",
+    "size": 16
+}, {
+    "text": "DATE",
+    "size": 17       
+}, {
+    "text": "TEMPERATURE_STRING",
+    "size": 37
+}, {
+    "text": "PERSON",
+    "size": 25
+}, {
+    "text": "TEMPERATURE_SYMBOL",
+    "size": 27
+}, {
+    "text": "SPEED_STRING",
+    "size": 4       
+}]

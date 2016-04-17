@@ -1,0 +1,47 @@
+import os
+import json
+import xml.etree.ElementTree as ET
+
+#from xml.dom import minidom
+#from django.utils import simplejson as json
+#pseudo code that returns actual xml data as a string from remote server. 
+#result = urlfetch.fetch(url,'','get');
+#with open('$HOME/Kukku/src/grobid/out/Paper1.tei.xml', 'r') as content_file:
+directory="/home/vinds/Downloads/files/"
+jsonAuthors = {}
+f = open('outputAuthors.json','w')
+#json_string = "{\"authors\":["
+f.write("{\"authors\":[")
+os.chdir(directory)
+for root, directories, files in os.walk(directory):
+    for filename in files:
+	if "tei.xml" in filename:
+ 	    print(filename)
+ 	    tree = ET.parse(filename)
+	    root = tree.getroot()	
+	    for child in root[0][1][2][0][0]:	
+	        for elem in child:
+		    if elem.tag == "{http://www.tei-c.org/ns/1.0}persName":
+			count = 0
+			#json_string=json_string+"{\"FileName\":\""+filename[:-8]+"\""
+		        f.write("{\"FileName\":\""+filename[:-8]+"\"")			
+		        for persons in elem:
+			    if persons.tag == "{http://www.tei-c.org/ns/1.0}forename":
+				if count == 0:				
+				    temp = persons.text.encode("utf-8")
+				    #json_string=json_string+",\"FirstName\":\""+persons.text+"\""
+				    f.write(",\"FirstName\":\""+temp+"\"")
+				    count+= 1
+		
+			    if persons.tag == "{http://www.tei-c.org/ns/1.0}surname":
+				temp = persons.text.encode("utf-8")
+			        #json_string=json_string+",\"LastName\":\""+persons.text+"\"}"
+				f.write(",\"LastName\":\""+temp+"\"")
+		        #json_string+=","
+			f.write("},")
+#json_string=json_string[:-1]
+#json_string+="]}"
+#print(json_string)
+f.write("]}")
+f.close()
+

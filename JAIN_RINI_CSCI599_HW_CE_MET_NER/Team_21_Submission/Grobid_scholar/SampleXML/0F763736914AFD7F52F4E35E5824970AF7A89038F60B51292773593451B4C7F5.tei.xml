@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/nisharazack/src/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-02T02:26+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secondary Data Analyses Requiring Review</head><p> Most research projects that consist entirely of secondary data analysis do not require IRB review. However, there are several exceptions to this rule: @BULLET Projects funded by the National Institutes of Health and other agencies that require IRB review as a condition of awarding the grant. @BULLET Secondary data analyses involving "restricted-use" data – data that are distributed to investigators with the understanding that use is restricted and secured from unauthorized use. @BULLET Secondary analyses involving survey or other data where data records of living individuals are not anonymous. @BULLET Projects that involve merging community, census tract, company, neighborhood, or geographical data to an existing survey of individuals A number of federal agencies and research organizations distribute special files to investigators on which they impose use restrictions. These files generally contain data fields, such as social security numbers, names, or extensive life history markers that might enable an unauthorized user to identify a participant. The use restrictions vary, but they typically involve secure (locked) data storage and password protected computers, and forbid the storage of data on computer hard drives that may be accessed through a computer network connection. These agreements may also limit the types of analyses that are done by the investigator. IRB is increasingly involved in the review of these agreements. Investigators who seek to add company, community, census tract, or geographical data to any existing or new survey data set must apply to IRB for approval to merge these data, and provide a plan for the secure analyses of these data. The addition of such data to individual records increases the probability that an unauthorized user of the dataset may be able to identify an individual participant. Investigators must seek renewal of the approval at least once a year.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head> Public use datasets do not require IRB review</head><p> IRB accepts public use data sets distributed by the following groups as meeting standards to guarantee that individual respondents are unlikely to be identified: If you are importing a dataset to Cornell that you are unsure meets a " public use " standard, please consult the IRB. The IRB can review the study materials and provide guidance on how to use the data in a secure manner that guarantees individual respondent confidentiality.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="1,126.00,260.83,168.44,9.27"><head></head><figDesc> What is a "restricted use" data set?</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="1,90.00,392.29,411.66,9.27;1,90.00,403.81,327.35,9.27"><head></head><figDesc> Investigators must obtain approval from IRB before they add community, census tract, company, and neighborhood data to an existing anonymous dataset.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="1,108.00,561.01,155.84,12.26;1,108.00,573.19,136.32,12.26;1,108.00,585.37,253.78,12.26;1,108.00,597.55,109.17,12.26;1,108.00,609.73,176.42,12.26;1,108.00,621.97,168.61,12.26"><head> @BULLET</head><figDesc> ICPSR (University of Michigan) @BULLET CISER (Cornell University) @BULLET National Longitudinal Surveys (Ohio State University) @BULLET U.S. Census Bureau @BULLET National Center for Health Statistics @BULLET Murray Center (Harvard/Radcliffe)</figDesc></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

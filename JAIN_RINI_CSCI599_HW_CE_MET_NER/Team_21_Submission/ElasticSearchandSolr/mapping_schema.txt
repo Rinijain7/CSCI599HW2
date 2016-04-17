@@ -1,0 +1,136 @@
+PUT polardataset 
+{
+	"mappings": {
+		"authors": {
+			"_all": {
+				"enabled": false
+			},
+			"properties": {
+				"FirstName": {
+					"type": "string"
+				},
+				"LastName": {
+					"type": "string"
+				},
+				"FileName": {
+					"type": "string"
+				}
+			}
+		},
+		"shortenurls": {
+			"_all": {
+				"enabled": false
+			},
+			"properties": {
+				"id": {
+					"type": "integer",
+					"index": "not_analyzed"
+				},
+				"longURL": {
+					"type": "string"
+				},
+				"shortURL": {
+					"type": "string"
+				}
+			}
+		},
+		"measurements": {
+			"_all": {
+				"enabled": false
+			},
+			"dynamic_templates": [{
+				"NER_VALUES": {
+					"match_mapping_type": "string",
+					"match": "NER_*",
+					"mapping": {
+						"type": "string"
+					}
+				}
+			}]
+		},
+		"sweetdata": {
+			"_all": {
+				"enabled": false
+			},
+			"properties": {
+				"file": {
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"tags": {
+					"type": "object",
+					"dynamic_templates": [{
+						"sweet_tags": {
+							"match_mapping_type": "string",
+							"match": "*",
+							"mapping": {
+								"type": "string"
+							}
+						}
+					}]
+				}
+			}
+		},
+		"publications": {
+			"_all": {
+				"enabled": false
+			},
+			"properties": {
+				"Author": {
+					"type": "string"
+				},
+				"Title": {
+					"type": "string"
+				},
+				"URL": {
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Year": {
+					"type": "date",
+					"format": "strict_date_optional_time||year"
+				}
+			}
+		},
+		"locations": {
+			"_all": {
+				"enabled": false
+			},
+			"properties": {
+				"Content-Type": {
+					"enabled": false
+				},
+				"Geographic_LATITUDE": {
+					"type": "float"
+				},
+				"Geographic_LONGITUDE": {
+					"type": "float"
+				},
+				"Geographic_NAME": {
+					"type": "string"
+				},
+				"Optional_LATITUDE1": "35.49209",
+				"Optional_LONGITUDE1": "-97.50328",
+				"Optional_NAME1": "Oklahoma",
+				"X-Parsed-By": {
+					"enabled": false
+				},
+				"X-TIKA:parse_time_millis": {
+					"enabled": false
+				},
+				"resourceName": {
+					"type": "string"
+				}
+			},
+			"dynamic_templates": [{
+				"OPTIONAL_LAT_LON": {
+					"match_mapping_type": "float",
+					"match": "OPTIONAL_*",
+					"mapping": {
+						"type": "float"
+					}
+				}
+			}]
+		}
+	}
+}

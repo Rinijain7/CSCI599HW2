@@ -1,0 +1,2777 @@
+{
+  "1424631560000.xhtml": {
+    "NER_PERSON": [
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "7b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      ""
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      ""
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }
+}{
+  "1424631560000.xhtml": {
+    "NER_PERSON": [
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "7b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      ""
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      ""
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424627205000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "1b", 
+      "8573522b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "State Budget", 
+      "", 
+      "State Court Facilities Construction Fund", 
+      "", 
+      "Civil Representation Pilot Program.", 
+      "Court Facilities Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 109", 
+      "809", 
+      "000 Schedule:", 
+      "Assembly Committee", 
+      "Senate", 
+      "General Fund.", 
+      "Administrative Office of", 
+      "Court Appointed Counsel Program", 
+      "Department of Finance", 
+      "Mental Health Services Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Assembly Members\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund", 
+      "Court Operations\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Court Facilities Construction Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Public Works Board", 
+      "Government Code.", 
+      "Government Code", 
+      "", 
+      "Joint Legislative Budget Committee", 
+      "Senate Committee", 
+      "State Treasury", 
+      "Judicial Branch Workers\u2019 Compensation Fund", 
+      "California Habeas Corpus Resource Center.", 
+      "Central Service Cost Recovery Fund", 
+      "California Highway Patrol)", 
+      "Federal Trust Fund (Item", 
+      "Department of Finance.", 
+      "Joint Legislative Budget Committee", 
+      "", 
+      "Department of Finance", 
+      "", 
+      "State Trial Court Improvement", 
+      "Office of the", 
+      "Legislature", 
+      "Office of Real Estate", 
+      "Appellate Court Trust Fund", 
+      "", 
+      "Judicial Council", 
+      "Court Interpreters\u2019 Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Treasury.", 
+      "LEGISLATIVE COUNSEL'S DIGEST AB 110", 
+      " Blumenfield.\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t Budget Act", 
+      "Assembly", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "General Fund", 
+      "Federal Trust Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Court Interpreters\u2019 Fund", 
+      "Vehicle Account", 
+      " State Transportation Fund)", 
+      "Appellate Court Trust Fund (Item 0250-001-3060)\\n\\t\\t\\t........................\\n\\t\\t \u22126", 
+      "597", 
+      "000 Provisions:", 
+      "Central Service Cost Recovery Fund\\n\\t\\t\\t........................\\n\\t\\t 15", 
+      "982", 
+      "000 \\n\\t\\t\\t Judicial", 
+      "Administrative", 
+      "Appellate Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 6", 
+      "597", 
+      "000 Provisions:", 
+      "Trial Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 35", 
+      "444", 
+      "000 Schedule:", 
+      "Budget Bill. Digest Key", 
+      "Senate Operating Fund."
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "1284 of the", 
+      "13338 of the", 
+      "30 days after", 
+      "10 of the", 
+      "60 days prior", 
+      "000 is available", 
+      "000 of the", 
+      "30 that are", 
+      "70352 of the", 
+      "000 for recovery", 
+      "70374 of the", 
+      "110 Budget Act", 
+      "12 of Article", 
+      "11 of\\n\\t\\t\\t Item", 
+      "0001 to provide", 
+      "1286 of the", 
+      "14 fiscal year"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }
+}{
+  "1424631560000.xhtml": {
+    "NER_PERSON": [
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "7b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      ""
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      ""
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424617978000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Senator Steinberg", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "California Community", 
+      "California Community Colleges", 
+      "California Community Colleges."
+    ], 
+    "NER_PRESSURE": [
+      "7b", 
+      "83b", 
+      "3b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "California Technology Assistance Projects", 
+      " the California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "California Online Student Access Platform Incentive Grant", 
+      "Donahoe", 
+      "Student instruction: California Online Student Incentive Grant", 
+      "Higher Education", 
+      "University of California", 
+      " the", 
+      "University of California", 
+      "", 
+      "University of California.", 
+      "University", 
+      "Senate", 
+      "LEGISLATIVE COUNSEL'S DIGEST SB", 
+      "California State University", 
+      "California Technology Assistance Project", 
+      "", 
+      "California Community Colleges. (4)When", 
+      "University of California", 
+      "University of California", 
+      " California State University", 
+      "", 
+      "University of California", 
+      " the California State University", 
+      "", 
+      "California Online Student Access Platformis", 
+      "California State Library", 
+      "", 
+      "Donahoe Higher Education", 
+      "University of California", 
+      " the California State\\n\\t\\t\\t\\t\\t\\tUniversity", 
+      "", 
+      "California Virtual Campus", 
+      "Commission on State\\n\\t\\t\\t Mandates", 
+      "California State University", 
+      "", 
+      "State Department of", 
+      "Assembly Member Garcia)", 
+      "Board of Governors", 
+      "California Online Student Access Incentive Grant", 
+      "California Community Colleges. Private", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "Education Code", 
+      "California Community Colleges", 
+      "", 
+      "California Community Colleges", 
+      " the California State University", 
+      "", 
+      "California Constitution", 
+      "Education Code", 
+      "", 
+      "Legislature", 
+      "Cy\ufffdalifornia State Library", 
+      "", 
+      "California Online Student Access Platform", 
+      "State", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University of California", 
+      "", 
+      "Intersegmental General Education Transfer Curriculum.", 
+      "Community Colleges", 
+      "Student instruction: California Online Student Access Platform. Incentive Grant"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "11 regional California", 
+      "520 Student instruction", 
+      "85 percent of", 
+      "3 is added", 
+      "10 of the", 
+      "15 incentive grants", 
+      "15 academic year", 
+      "4 leadership stakeholder", 
+      "16 percent of", 
+      "2014 REGULAR SESSION", 
+      "3 public postsecondary", 
+      "3 separate programs", 
+      "66950 and appropriate", 
+      "50 most impacted", 
+      "2012 course sections", 
+      "4 segments of", 
+      "13 academic year", 
+      "15 appropriate partnerships", 
+      "66950 and partnerships", 
+      "12 public schools", 
+      "000 students on", 
+      "15 of the", 
+      "50 approved and", 
+      "60 percent and"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424627205000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "1b", 
+      "8573522b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "State Budget", 
+      "", 
+      "State Court Facilities Construction Fund", 
+      "", 
+      "Civil Representation Pilot Program.", 
+      "Court Facilities Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 109", 
+      "809", 
+      "000 Schedule:", 
+      "Assembly Committee", 
+      "Senate", 
+      "General Fund.", 
+      "Administrative Office of", 
+      "Court Appointed Counsel Program", 
+      "Department of Finance", 
+      "Mental Health Services Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Assembly Members\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund", 
+      "Court Operations\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Court Facilities Construction Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Public Works Board", 
+      "Government Code.", 
+      "Government Code", 
+      "", 
+      "Joint Legislative Budget Committee", 
+      "Senate Committee", 
+      "State Treasury", 
+      "Judicial Branch Workers\u2019 Compensation Fund", 
+      "California Habeas Corpus Resource Center.", 
+      "Central Service Cost Recovery Fund", 
+      "California Highway Patrol)", 
+      "Federal Trust Fund (Item", 
+      "Department of Finance.", 
+      "Joint Legislative Budget Committee", 
+      "", 
+      "Department of Finance", 
+      "", 
+      "State Trial Court Improvement", 
+      "Office of the", 
+      "Legislature", 
+      "Office of Real Estate", 
+      "Appellate Court Trust Fund", 
+      "", 
+      "Judicial Council", 
+      "Court Interpreters\u2019 Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Treasury.", 
+      "LEGISLATIVE COUNSEL'S DIGEST AB 110", 
+      " Blumenfield.\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t Budget Act", 
+      "Assembly", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "General Fund", 
+      "Federal Trust Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Court Interpreters\u2019 Fund", 
+      "Vehicle Account", 
+      " State Transportation Fund)", 
+      "Appellate Court Trust Fund (Item 0250-001-3060)\\n\\t\\t\\t........................\\n\\t\\t \u22126", 
+      "597", 
+      "000 Provisions:", 
+      "Central Service Cost Recovery Fund\\n\\t\\t\\t........................\\n\\t\\t 15", 
+      "982", 
+      "000 \\n\\t\\t\\t Judicial", 
+      "Administrative", 
+      "Appellate Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 6", 
+      "597", 
+      "000 Provisions:", 
+      "Trial Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 35", 
+      "444", 
+      "000 Schedule:", 
+      "Budget Bill. Digest Key", 
+      "Senate Operating Fund."
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "1284 of the", 
+      "13338 of the", 
+      "30 days after", 
+      "10 of the", 
+      "60 days prior", 
+      "000 is available", 
+      "000 of the", 
+      "30 that are", 
+      "70352 of the", 
+      "000 for recovery", 
+      "70374 of the", 
+      "110 Budget Act", 
+      "12 of Article", 
+      "11 of\\n\\t\\t\\t Item", 
+      "0001 to provide", 
+      "1286 of the", 
+      "14 fiscal year"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }
+}{
+  "1424620645000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "United States", 
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "0b", 
+      "40b", 
+      "26b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "State Department of Public Health", 
+      "Legislature", 
+      "University of California\u2019s", 
+      "Assembly", 
+      "Research Act.", 
+      "Digest Key", 
+      "Department of General Services", 
+      "Education", 
+      "Senate", 
+      "State Department of Public Health. Existing", 
+      "LEGISLATIVE COUNSEL'S DIGEST AB", 
+      "State Department of Public Health.(2013-2014)\\n", 
+      "Research", 
+      "State Department of Public Health."
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "12 months after", 
+      "101 of Title", 
+      "66408 of the", 
+      "3 of Title", 
+      "17 of the", 
+      "5 of y", 
+      "2 of the", 
+      "5 of Division"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424631560000.xhtml": {
+    "NER_PERSON": [
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "7b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      ""
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      ""
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424617978000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Senator Steinberg", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "California Community", 
+      "California Community Colleges", 
+      "California Community Colleges."
+    ], 
+    "NER_PRESSURE": [
+      "7b", 
+      "83b", 
+      "3b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "California Technology Assistance Projects", 
+      " the California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "California Online Student Access Platform Incentive Grant", 
+      "Donahoe", 
+      "Student instruction: California Online Student Incentive Grant", 
+      "Higher Education", 
+      "University of California", 
+      " the", 
+      "University of California", 
+      "", 
+      "University of California.", 
+      "University", 
+      "Senate", 
+      "LEGISLATIVE COUNSEL'S DIGEST SB", 
+      "California State University", 
+      "California Technology Assistance Project", 
+      "", 
+      "California Community Colleges. (4)When", 
+      "University of California", 
+      "University of California", 
+      " California State University", 
+      "", 
+      "University of California", 
+      " the California State University", 
+      "", 
+      "California Online Student Access Platformis", 
+      "California State Library", 
+      "", 
+      "Donahoe Higher Education", 
+      "University of California", 
+      " the California State\\n\\t\\t\\t\\t\\t\\tUniversity", 
+      "", 
+      "California Virtual Campus", 
+      "Commission on State\\n\\t\\t\\t Mandates", 
+      "California State University", 
+      "", 
+      "State Department of", 
+      "Assembly Member Garcia)", 
+      "Board of Governors", 
+      "California Online Student Access Incentive Grant", 
+      "California Community Colleges. Private", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "Education Code", 
+      "California Community Colleges", 
+      "", 
+      "California Community Colleges", 
+      " the California State University", 
+      "", 
+      "California Constitution", 
+      "Education Code", 
+      "", 
+      "Legislature", 
+      "Cy\ufffdalifornia State Library", 
+      "", 
+      "California Online Student Access Platform", 
+      "State", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University of California", 
+      "", 
+      "Intersegmental General Education Transfer Curriculum.", 
+      "Community Colleges", 
+      "Student instruction: California Online Student Access Platform. Incentive Grant"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "11 regional California", 
+      "520 Student instruction", 
+      "85 percent of", 
+      "3 is added", 
+      "10 of the", 
+      "15 incentive grants", 
+      "15 academic year", 
+      "4 leadership stakeholder", 
+      "16 percent of", 
+      "2014 REGULAR SESSION", 
+      "3 public postsecondary", 
+      "3 separate programs", 
+      "66950 and appropriate", 
+      "50 most impacted", 
+      "2012 course sections", 
+      "4 segments of", 
+      "13 academic year", 
+      "15 appropriate partnerships", 
+      "66950 and partnerships", 
+      "12 public schools", 
+      "000 students on", 
+      "15 of the", 
+      "50 approved and", 
+      "60 percent and"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424627205000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "1b", 
+      "8573522b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "State Budget", 
+      "", 
+      "State Court Facilities Construction Fund", 
+      "", 
+      "Civil Representation Pilot Program.", 
+      "Court Facilities Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 109", 
+      "809", 
+      "000 Schedule:", 
+      "Assembly Committee", 
+      "Senate", 
+      "General Fund.", 
+      "Administrative Office of", 
+      "Court Appointed Counsel Program", 
+      "Department of Finance", 
+      "Mental Health Services Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Assembly Members\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund", 
+      "Court Operations\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Court Facilities Construction Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Public Works Board", 
+      "Government Code.", 
+      "Government Code", 
+      "", 
+      "Joint Legislative Budget Committee", 
+      "Senate Committee", 
+      "State Treasury", 
+      "Judicial Branch Workers\u2019 Compensation Fund", 
+      "California Habeas Corpus Resource Center.", 
+      "Central Service Cost Recovery Fund", 
+      "California Highway Patrol)", 
+      "Federal Trust Fund (Item", 
+      "Department of Finance.", 
+      "Joint Legislative Budget Committee", 
+      "", 
+      "Department of Finance", 
+      "", 
+      "State Trial Court Improvement", 
+      "Office of the", 
+      "Legislature", 
+      "Office of Real Estate", 
+      "Appellate Court Trust Fund", 
+      "", 
+      "Judicial Council", 
+      "Court Interpreters\u2019 Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Treasury.", 
+      "LEGISLATIVE COUNSEL'S DIGEST AB 110", 
+      " Blumenfield.\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t Budget Act", 
+      "Assembly", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "General Fund", 
+      "Federal Trust Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Court Interpreters\u2019 Fund", 
+      "Vehicle Account", 
+      " State Transportation Fund)", 
+      "Appellate Court Trust Fund (Item 0250-001-3060)\\n\\t\\t\\t........................\\n\\t\\t \u22126", 
+      "597", 
+      "000 Provisions:", 
+      "Central Service Cost Recovery Fund\\n\\t\\t\\t........................\\n\\t\\t 15", 
+      "982", 
+      "000 \\n\\t\\t\\t Judicial", 
+      "Administrative", 
+      "Appellate Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 6", 
+      "597", 
+      "000 Provisions:", 
+      "Trial Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 35", 
+      "444", 
+      "000 Schedule:", 
+      "Budget Bill. Digest Key", 
+      "Senate Operating Fund."
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "1284 of the", 
+      "13338 of the", 
+      "30 days after", 
+      "10 of the", 
+      "60 days prior", 
+      "000 is available", 
+      "000 of the", 
+      "30 that are", 
+      "70352 of the", 
+      "000 for recovery", 
+      "70374 of the", 
+      "110 Budget Act", 
+      "12 of Article", 
+      "11 of\\n\\t\\t\\t Item", 
+      "0001 to provide", 
+      "1286 of the", 
+      "14 fiscal year"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }
+}{
+  "1424620645000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "United States", 
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "0b", 
+      "40b", 
+      "26b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "State Department of Public Health", 
+      "Legislature", 
+      "University of California\u2019s", 
+      "Assembly", 
+      "Research Act.", 
+      "Digest Key", 
+      "Department of General Services", 
+      "Education", 
+      "Senate", 
+      "State Department of Public Health. Existing", 
+      "LEGISLATIVE COUNSEL'S DIGEST AB", 
+      "State Department of Public Health.(2013-2014)\\n", 
+      "Research", 
+      "State Department of Public Health."
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "12 months after", 
+      "101 of Title", 
+      "66408 of the", 
+      "3 of Title", 
+      "17 of the", 
+      "5 of y", 
+      "2 of the", 
+      "5 of Division"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424631560000.xhtml": {
+    "NER_PERSON": [
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "7b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      ""
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      ""
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424617978000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Senator Steinberg", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "California Community", 
+      "California Community Colleges", 
+      "California Community Colleges."
+    ], 
+    "NER_PRESSURE": [
+      "7b", 
+      "83b", 
+      "3b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "California Technology Assistance Projects", 
+      " the California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "California Online Student Access Platform Incentive Grant", 
+      "Donahoe", 
+      "Student instruction: California Online Student Incentive Grant", 
+      "Higher Education", 
+      "University of California", 
+      " the", 
+      "University of California", 
+      "", 
+      "University of California.", 
+      "University", 
+      "Senate", 
+      "LEGISLATIVE COUNSEL'S DIGEST SB", 
+      "California State University", 
+      "California Technology Assistance Project", 
+      "", 
+      "California Community Colleges. (4)When", 
+      "University of California", 
+      "University of California", 
+      " California State University", 
+      "", 
+      "University of California", 
+      " the California State University", 
+      "", 
+      "California Online Student Access Platformis", 
+      "California State Library", 
+      "", 
+      "Donahoe Higher Education", 
+      "University of California", 
+      " the California State\\n\\t\\t\\t\\t\\t\\tUniversity", 
+      "", 
+      "California Virtual Campus", 
+      "Commission on State\\n\\t\\t\\t Mandates", 
+      "California State University", 
+      "", 
+      "State Department of", 
+      "Assembly Member Garcia)", 
+      "Board of Governors", 
+      "California Online Student Access Incentive Grant", 
+      "California Community Colleges. Private", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "Education Code", 
+      "California Community Colleges", 
+      "", 
+      "California Community Colleges", 
+      " the California State University", 
+      "", 
+      "California Constitution", 
+      "Education Code", 
+      "", 
+      "Legislature", 
+      "Cy\ufffdalifornia State Library", 
+      "", 
+      "California Online Student Access Platform", 
+      "State", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University of California", 
+      "", 
+      "Intersegmental General Education Transfer Curriculum.", 
+      "Community Colleges", 
+      "Student instruction: California Online Student Access Platform. Incentive Grant"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "11 regional California", 
+      "520 Student instruction", 
+      "85 percent of", 
+      "3 is added", 
+      "10 of the", 
+      "15 incentive grants", 
+      "15 academic year", 
+      "4 leadership stakeholder", 
+      "16 percent of", 
+      "2014 REGULAR SESSION", 
+      "3 public postsecondary", 
+      "3 separate programs", 
+      "66950 and appropriate", 
+      "50 most impacted", 
+      "2012 course sections", 
+      "4 segments of", 
+      "13 academic year", 
+      "15 appropriate partnerships", 
+      "66950 and partnerships", 
+      "12 public schools", 
+      "000 students on", 
+      "15 of the", 
+      "50 approved and", 
+      "60 percent and"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424620335000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Senator Block", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "California Community Colleges"
+    ], 
+    "NER_PRESSURE": [
+      "49b", 
+      "32b", 
+      "3b", 
+      "2b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "Commission on State Mandates", 
+      "California Technology Assistance Projects", 
+      " the California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "California Technology Assistance\\n\\t\\t\\t\\t Project.", 
+      "State Department of", 
+      "Board of Governors", 
+      "Donahoe Higher Education Act", 
+      "", 
+      "University of California.", 
+      "Senate", 
+      "LEGISLATIVE COUNSEL'S DIGEST SB", 
+      "California Community Colleges", 
+      "University of California\u2019s", 
+      "Intersegmental General Education Transfer Curriculum. (b)\u00a0The", 
+      "Intersegmental General Education Transfer Curriculum", 
+      "California Virtual", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "Government Code.", 
+      "University of California", 
+      "California Virtuay", 
+      "California Community Colleges. Provisions", 
+      "California Community Colleges.", 
+      "University of California", 
+      " the California State University", 
+      "", 
+      "California Virtual Campus.", 
+      "California Community Colleges", 
+      " the California State University", 
+      "", 
+      "University of California", 
+      " the California State University", 
+      "California Virtual Campus", 
+      "", 
+      "Legislative Analyst\u2019s Office", 
+      "California Constitution", 
+      "California State Library", 
+      "", 
+      "Education Code", 
+      "", 
+      "Legislature", 
+      "California Virtual Campus", 
+      "General Fund", 
+      "California Technology\\n\\t\\t\\t\\t Assistance Project", 
+      "", 
+      "California State University", 
+      "", 
+      "Division", 
+      "California State University.", 
+      "Community Colleges"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "11 regional California", 
+      "3 of of", 
+      "5 of the", 
+      "12 model online", 
+      "12 pursuant to", 
+      "9795 of the", 
+      "2 of the", 
+      "5 of Title", 
+      "10 of the", 
+      "2014 REGULAR SESSION", 
+      "40 of Division", 
+      "3 of the", 
+      "547 Public postsecondary", 
+      "4 of Title", 
+      "12 public schools", 
+      "12 online courses", 
+      "30 of the", 
+      "3 segments for"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424627205000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "1b", 
+      "8573522b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "State Budget", 
+      "", 
+      "State Court Facilities Construction Fund", 
+      "", 
+      "Civil Representation Pilot Program.", 
+      "Court Facilities Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 109", 
+      "809", 
+      "000 Schedule:", 
+      "Assembly Committee", 
+      "Senate", 
+      "General Fund.", 
+      "Administrative Office of", 
+      "Court Appointed Counsel Program", 
+      "Department of Finance", 
+      "Mental Health Services Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Assembly Members\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund", 
+      "Court Operations\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Court Facilities Construction Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Public Works Board", 
+      "Government Code.", 
+      "Government Code", 
+      "", 
+      "Joint Legislative Budget Committee", 
+      "Senate Committee", 
+      "State Treasury", 
+      "Judicial Branch Workers\u2019 Compensation Fund", 
+      "California Habeas Corpus Resource Center.", 
+      "Central Service Cost Recovery Fund", 
+      "California Highway Patrol)", 
+      "Federal Trust Fund (Item", 
+      "Department of Finance.", 
+      "Joint Legislative Budget Committee", 
+      "", 
+      "Department of Finance", 
+      "", 
+      "State Trial Court Improvement", 
+      "Office of the", 
+      "Legislature", 
+      "Office of Real Estate", 
+      "Appellate Court Trust Fund", 
+      "", 
+      "Judicial Council", 
+      "Court Interpreters\u2019 Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Treasury.", 
+      "LEGISLATIVE COUNSEL'S DIGEST AB 110", 
+      " Blumenfield.\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t Budget Act", 
+      "Assembly", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "General Fund", 
+      "Federal Trust Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Court Interpreters\u2019 Fund", 
+      "Vehicle Account", 
+      " State Transportation Fund)", 
+      "Appellate Court Trust Fund (Item 0250-001-3060)\\n\\t\\t\\t........................\\n\\t\\t \u22126", 
+      "597", 
+      "000 Provisions:", 
+      "Central Service Cost Recovery Fund\\n\\t\\t\\t........................\\n\\t\\t 15", 
+      "982", 
+      "000 \\n\\t\\t\\t Judicial", 
+      "Administrative", 
+      "Appellate Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 6", 
+      "597", 
+      "000 Provisions:", 
+      "Trial Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 35", 
+      "444", 
+      "000 Schedule:", 
+      "Budget Bill. Digest Key", 
+      "Senate Operating Fund."
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "1284 of the", 
+      "13338 of the", 
+      "30 days after", 
+      "10 of the", 
+      "60 days prior", 
+      "000 is available", 
+      "000 of the", 
+      "30 that are", 
+      "70352 of the", 
+      "000 for recovery", 
+      "70374 of the", 
+      "110 Budget Act", 
+      "12 of Article", 
+      "11 of\\n\\t\\t\\t Item", 
+      "0001 to provide", 
+      "1286 of the", 
+      "14 fiscal year"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }
+}{
+  "1424631560000.xhtml": {
+    "NER_PERSON": [
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "7b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      ""
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      ""
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424617978000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Senator Steinberg", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "California Community", 
+      "California Community Colleges", 
+      "California Community Colleges."
+    ], 
+    "NER_PRESSURE": [
+      "7b", 
+      "83b", 
+      "3b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "California Technology Assistance Projects", 
+      " the California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "California Online Student Access Platform Incentive Grant", 
+      "Donahoe", 
+      "Student instruction: California Online Student Incentive Grant", 
+      "Higher Education", 
+      "University of California", 
+      " the", 
+      "University of California", 
+      "", 
+      "University of California.", 
+      "University", 
+      "Senate", 
+      "LEGISLATIVE COUNSEL'S DIGEST SB", 
+      "California State University", 
+      "California Technology Assistance Project", 
+      "", 
+      "California Community Colleges. (4)When", 
+      "University of California", 
+      "University of California", 
+      " California State University", 
+      "", 
+      "University of California", 
+      " the California State University", 
+      "", 
+      "California Online Student Access Platformis", 
+      "California State Library", 
+      "", 
+      "Donahoe Higher Education", 
+      "University of California", 
+      " the California State\\n\\t\\t\\t\\t\\t\\tUniversity", 
+      "", 
+      "California Virtual Campus", 
+      "Commission on State\\n\\t\\t\\t Mandates", 
+      "California State University", 
+      "", 
+      "State Department of", 
+      "Assembly Member Garcia)", 
+      "Board of Governors", 
+      "California Online Student Access Incentive Grant", 
+      "California Community Colleges. Private", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "Education Code", 
+      "California Community Colleges", 
+      "", 
+      "California Community Colleges", 
+      " the California State University", 
+      "", 
+      "California Constitution", 
+      "Education Code", 
+      "", 
+      "Legislature", 
+      "Cy\ufffdalifornia State Library", 
+      "", 
+      "California Online Student Access Platform", 
+      "State", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University of California", 
+      "", 
+      "Intersegmental General Education Transfer Curriculum.", 
+      "Community Colleges", 
+      "Student instruction: California Online Student Access Platform. Incentive Grant"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "11 regional California", 
+      "520 Student instruction", 
+      "85 percent of", 
+      "3 is added", 
+      "10 of the", 
+      "15 incentive grants", 
+      "15 academic year", 
+      "4 leadership stakeholder", 
+      "16 percent of", 
+      "2014 REGULAR SESSION", 
+      "3 public postsecondary", 
+      "3 separate programs", 
+      "66950 and appropriate", 
+      "50 most impacted", 
+      "2012 course sections", 
+      "4 segments of", 
+      "13 academic year", 
+      "15 appropriate partnerships", 
+      "66950 and partnerships", 
+      "12 public schools", 
+      "000 students on", 
+      "15 of the", 
+      "50 approved and", 
+      "60 percent and"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424628576000.xhtml": {
+    "NER_PERSON": [
+      "Bob \\n\\tWilk", 
+      " Scott", 
+      "Autumn", 
+      "Richard", 
+      "Brian \\n\\tMathis", 
+      " Devon J.", 
+      "Patty", 
+      "Matt", 
+      "Ed \\n\\tChiu", 
+      " David \\n\\tChu", 
+      " Kansen", 
+      "Ted", 
+      "Brian \\n\\tDaly", 
+      " Tom \\n\\tDe Le\u00f3n", 
+      " Kevin", 
+      "Jim", 
+      "Tony", 
+      "Kevin", 
+      "Susan Talamantes", 
+      "Connie", 
+      "Loni", 
+      "Bill Search", 
+      "Young", 
+      "Toni", 
+      "Donald P. \\n\\tWaldron", 
+      " Marie \\n\\tWalters", 
+      " Mimi", 
+      "Bob \\n\\tIrwin", 
+      " Jacqui", 
+      "Ken \\n\\tCooper", 
+      " Jim", 
+      "Rob", 
+      "Jay \\n\\tOlsen", 
+      " Kristin", 
+      "Brian W. \\n\\tJones-Sawyer", 
+      " Sr. Reginald", 
+      "Matthew", 
+      "Rocky", 
+      "Janet", 
+      "James \\n\\tGarcia", 
+      " Cristina", 
+      "Ben", 
+      "Patrick", 
+      "Richard S. \\n\\tGray", 
+      " Adam C.", 
+      "Ed \\n\\tHern\u00e1ndez", 
+      " Roger", 
+      "Jim \\n\\tPavley", 
+      " Fran \\n\\tPerea", 
+      " Henry T.", 
+      "Patricia", 
+      "Eric \\n\\tLiu", 
+      " Carol", 
+      "Bill Information\\n", 
+      "Mike A.", 
+      "Mike", 
+      "Travis", 
+      "Philip Y. \\n\\tVidak", 
+      " Andy", 
+      "Mark", 
+      "Anthony", 
+      "William P. \\n\\tBrown", 
+      " Cheryl", 
+      "Rudy", 
+      "Jim \\n\\tFuller", 
+      " Jean \\n\\tGaines", 
+      " Beth B.", 
+      "Steve \\n\\tLackey", 
+      " Tom \\n\\tLara", 
+      " Ricardo \\n\\tLeno", 
+      " Mark \\n\\tLevine", 
+      " Marc", 
+      "Richard \\n\\tBonilla", 
+      " Susan A.", 
+      "Shannon", 
+      "Benjamin", 
+      "Tom \\n\\tBigelow", 
+      " Franklin E. \\n\\tBlock", 
+      " Marty", 
+      "David \\n\\tHall III", 
+      " Isadore", 
+      "Bill", 
+      "Joel", 
+      "Shirley N.", 
+      "Jose \\n\\tMelendez", 
+      " Melissa A. \\n\\tMendoza", 
+      " Tony \\n\\tMitchell", 
+      " Holly", 
+      "Miguel \\n\\tSteinorth", 
+      " Marc", 
+      "Robert M. \\n\\tHill", 
+      " Jerry \\n\\tHolden", 
+      " Chris R.", 
+      "Jimmy \\n\\tGonzalez", 
+      " Lorena", 
+      "Eduardo", 
+      "Ian", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "Chad", 
+      "Rocky"
+    ], 
+    "NER_PRESSURE": [
+      "7b", 
+      "22b", 
+      "0b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "Search", 
+      "Search \\n"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      ""
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424620335000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Senator Block", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "California Community Colleges"
+    ], 
+    "NER_PRESSURE": [
+      "49b", 
+      "32b", 
+      "3b", 
+      "2b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "Commission on State Mandates", 
+      "California Technology Assistance Projects", 
+      " the California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "California Technology Assistance\\n\\t\\t\\t\\t Project.", 
+      "State Department of", 
+      "Board of Governors", 
+      "Donahoe Higher Education Act", 
+      "", 
+      "University of California.", 
+      "Senate", 
+      "LEGISLATIVE COUNSEL'S DIGEST SB", 
+      "California Community Colleges", 
+      "University of California\u2019s", 
+      "Intersegmental General Education Transfer Curriculum. (b)\u00a0The", 
+      "Intersegmental General Education Transfer Curriculum", 
+      "California Virtual", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "Government Code.", 
+      "University of California", 
+      "California Virtuay", 
+      "California Community Colleges. Provisions", 
+      "California Community Colleges.", 
+      "University of California", 
+      " the California State University", 
+      "", 
+      "California Virtual Campus.", 
+      "California Community Colleges", 
+      " the California State University", 
+      "", 
+      "University of California", 
+      " the California State University", 
+      "California Virtual Campus", 
+      "", 
+      "Legislative Analyst\u2019s Office", 
+      "California Constitution", 
+      "California State Library", 
+      "", 
+      "Education Code", 
+      "", 
+      "Legislature", 
+      "California Virtual Campus", 
+      "General Fund", 
+      "California Technology\\n\\t\\t\\t\\t Assistance Project", 
+      "", 
+      "California State University", 
+      "", 
+      "Division", 
+      "California State University.", 
+      "Community Colleges"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "11 regional California", 
+      "3 of of", 
+      "5 of the", 
+      "12 model online", 
+      "12 pursuant to", 
+      "9795 of the", 
+      "2 of the", 
+      "5 of Title", 
+      "10 of the", 
+      "2014 REGULAR SESSION", 
+      "40 of Division", 
+      "3 of the", 
+      "547 Public postsecondary", 
+      "4 of Title", 
+      "12 public schools", 
+      "12 online courses", 
+      "30 of the", 
+      "3 segments for"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424627205000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "1b", 
+      "8573522b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "State Budget", 
+      "", 
+      "State Court Facilities Construction Fund", 
+      "", 
+      "Civil Representation Pilot Program.", 
+      "Court Facilities Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 109", 
+      "809", 
+      "000 Schedule:", 
+      "Assembly Committee", 
+      "Senate", 
+      "General Fund.", 
+      "Administrative Office of", 
+      "Court Appointed Counsel Program", 
+      "Department of Finance", 
+      "Mental Health Services Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Assembly Members\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund", 
+      "Court Operations\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Court Facilities Construction Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Public Works Board", 
+      "Government Code.", 
+      "Government Code", 
+      "", 
+      "Joint Legislative Budget Committee", 
+      "Senate Committee", 
+      "State Treasury", 
+      "Judicial Branch Workers\u2019 Compensation Fund", 
+      "California Habeas Corpus Resource Center.", 
+      "Central Service Cost Recovery Fund", 
+      "California Highway Patrol)", 
+      "Federal Trust Fund (Item", 
+      "Department of Finance.", 
+      "Joint Legislative Budget Committee", 
+      "", 
+      "Department of Finance", 
+      "", 
+      "State Trial Court Improvement", 
+      "Office of the", 
+      "Legislature", 
+      "Office of Real Estate", 
+      "Appellate Court Trust Fund", 
+      "", 
+      "Judicial Council", 
+      "Court Interpreters\u2019 Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Treasury.", 
+      "LEGISLATIVE COUNSEL'S DIGEST AB 110", 
+      " Blumenfield.\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t Budget Act", 
+      "Assembly", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "General Fund", 
+      "Federal Trust Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Court Interpreters\u2019 Fund", 
+      "Vehicle Account", 
+      " State Transportation Fund)", 
+      "Appellate Court Trust Fund (Item 0250-001-3060)\\n\\t\\t\\t........................\\n\\t\\t \u22126", 
+      "597", 
+      "000 Provisions:", 
+      "Central Service Cost Recovery Fund\\n\\t\\t\\t........................\\n\\t\\t 15", 
+      "982", 
+      "000 \\n\\t\\t\\t Judicial", 
+      "Administrative", 
+      "Appellate Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 6", 
+      "597", 
+      "000 Provisions:", 
+      "Trial Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 35", 
+      "444", 
+      "000 Schedule:", 
+      "Budget Bill. Digest Key", 
+      "Senate Operating Fund."
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "1284 of the", 
+      "13338 of the", 
+      "30 days after", 
+      "10 of the", 
+      "60 days prior", 
+      "000 is available", 
+      "000 of the", 
+      "30 that are", 
+      "70352 of the", 
+      "000 for recovery", 
+      "70374 of the", 
+      "110 Budget Act", 
+      "12 of Article", 
+      "11 of\\n\\t\\t\\t Item", 
+      "0001 to provide", 
+      "1286 of the", 
+      "14 fiscal year"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424620645000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "United States", 
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "0b", 
+      "40b", 
+      "26b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "State Department of Public Health", 
+      "Legislature", 
+      "University of California\u2019s", 
+      "Assembly", 
+      "Research Act.", 
+      "Digest Key", 
+      "Department of General Services", 
+      "Education", 
+      "Senate", 
+      "State Department of Public Health. Existing", 
+      "LEGISLATIVE COUNSEL'S DIGEST AB", 
+      "State Department of Public Health.(2013-2014)\\n", 
+      "Research", 
+      "State Department of Public Health."
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "12 months after", 
+      "101 of Title", 
+      "66408 of the", 
+      "3 of Title", 
+      "17 of the", 
+      "5 of y", 
+      "2 of the", 
+      "5 of Division"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }
+}{
+  "1424631560000.xhtml": {
+    "NER_PERSON": [
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "7b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      ""
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      ""
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424620719000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Senator Block", 
+      "Virtual Campus", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "California Community Colleges"
+    ], 
+    "NER_PRESSURE": [
+      "61b", 
+      "5b", 
+      "0b", 
+      "3297b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "Commission on State Mandates", 
+      "California Technology Assistance Projects", 
+      " the California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "California Technology Assistance\\n\\t\\t\\t\\t Project.", 
+      "State Department of", 
+      "Board of Governors", 
+      "Donahoe Higher Education Act", 
+      "", 
+      "University of California.", 
+      "Senate", 
+      "LEGISLATIVE COUNSEL'S DIGEST SB", 
+      "California Community Colleges", 
+      "University of California\u2019s", 
+      "Intersegmental General Education Transfer Curriculum", 
+      "California Virtual", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "Government Code.", 
+      "University of California", 
+      "California Community Colleges. Provisions", 
+      "California Community Colleges.", 
+      "University of California", 
+      " the California State University", 
+      "", 
+      "California Virtual Campus.", 
+      "California Community Colleges", 
+      " the California State University", 
+      "", 
+      "University of California", 
+      " the California State University", 
+      "California Virtual Campus", 
+      "", 
+      "Legislative Analyst\u2019s Office", 
+      "California Constitution", 
+      "California State Library", 
+      "", 
+      "Education Code", 
+      "", 
+      "Legislature", 
+      "California Virtual Campus", 
+      "General Fund", 
+      "California Technology\\n\\t\\t\\t\\t Assistance Project", 
+      "", 
+      "California State University", 
+      "", 
+      "Intersegmental General Education Transfer Curriculum.", 
+      "Division", 
+      "California State University.", 
+      "Community Colleges"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "11 regional California", 
+      "3 of of", 
+      "5 of the", 
+      "12 model online", 
+      "12 pursuant to", 
+      "9795 of the", 
+      "2 of the", 
+      "5 of Title", 
+      "10 of the", 
+      "2014 REGULAR SESSION", 
+      "40 of Division", 
+      "3 of the", 
+      "547 Public postsecondary", 
+      "4 of Title", 
+      "12 public schools", 
+      "12 online courses", 
+      "30 of the", 
+      "3 segments for"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424617978000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Senator Steinberg", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "California Community", 
+      "California Community Colleges", 
+      "California Community Colleges."
+    ], 
+    "NER_PRESSURE": [
+      "7b", 
+      "83b", 
+      "3b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "California Technology Assistance Projects", 
+      " the California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "California Online Student Access Platform Incentive Grant", 
+      "Donahoe", 
+      "Student instruction: California Online Student Incentive Grant", 
+      "Higher Education", 
+      "University of California", 
+      " the", 
+      "University of California", 
+      "", 
+      "University of California.", 
+      "University", 
+      "Senate", 
+      "LEGISLATIVE COUNSEL'S DIGEST SB", 
+      "California State University", 
+      "California Technology Assistance Project", 
+      "", 
+      "California Community Colleges. (4)When", 
+      "University of California", 
+      "University of California", 
+      " California State University", 
+      "", 
+      "University of California", 
+      " the California State University", 
+      "", 
+      "California Online Student Access Platformis", 
+      "California State Library", 
+      "", 
+      "Donahoe Higher Education", 
+      "University of California", 
+      " the California State\\n\\t\\t\\t\\t\\t\\tUniversity", 
+      "", 
+      "California Virtual Campus", 
+      "Commission on State\\n\\t\\t\\t Mandates", 
+      "California State University", 
+      "", 
+      "State Department of", 
+      "Assembly Member Garcia)", 
+      "Board of Governors", 
+      "California Online Student Access Incentive Grant", 
+      "California Community Colleges. Private", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "Education Code", 
+      "California Community Colleges", 
+      "", 
+      "California Community Colleges", 
+      " the California State University", 
+      "", 
+      "California Constitution", 
+      "Education Code", 
+      "", 
+      "Legislature", 
+      "Cy\ufffdalifornia State Library", 
+      "", 
+      "California Online Student Access Platform", 
+      "State", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University of California", 
+      "", 
+      "Intersegmental General Education Transfer Curriculum.", 
+      "Community Colleges", 
+      "Student instruction: California Online Student Access Platform. Incentive Grant"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "11 regional California", 
+      "520 Student instruction", 
+      "85 percent of", 
+      "3 is added", 
+      "10 of the", 
+      "15 incentive grants", 
+      "15 academic year", 
+      "4 leadership stakeholder", 
+      "16 percent of", 
+      "2014 REGULAR SESSION", 
+      "3 public postsecondary", 
+      "3 separate programs", 
+      "66950 and appropriate", 
+      "50 most impacted", 
+      "2012 course sections", 
+      "4 segments of", 
+      "13 academic year", 
+      "15 appropriate partnerships", 
+      "66950 and partnerships", 
+      "12 public schools", 
+      "000 students on", 
+      "15 of the", 
+      "50 approved and", 
+      "60 percent and"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424628576000.xhtml": {
+    "NER_PERSON": [
+      "Bob \\n\\tWilk", 
+      " Scott", 
+      "Autumn", 
+      "Richard", 
+      "Brian \\n\\tMathis", 
+      " Devon J.", 
+      "Patty", 
+      "Matt", 
+      "Ed \\n\\tChiu", 
+      " David \\n\\tChu", 
+      " Kansen", 
+      "Ted", 
+      "Brian \\n\\tDaly", 
+      " Tom \\n\\tDe Le\u00f3n", 
+      " Kevin", 
+      "Jim", 
+      "Tony", 
+      "Kevin", 
+      "Susan Talamantes", 
+      "Connie", 
+      "Loni", 
+      "Bill Search", 
+      "Young", 
+      "Toni", 
+      "Donald P. \\n\\tWaldron", 
+      " Marie \\n\\tWalters", 
+      " Mimi", 
+      "Bob \\n\\tIrwin", 
+      " Jacqui", 
+      "Ken \\n\\tCooper", 
+      " Jim", 
+      "Rob", 
+      "Jay \\n\\tOlsen", 
+      " Kristin", 
+      "Brian W. \\n\\tJones-Sawyer", 
+      " Sr. Reginald", 
+      "Matthew", 
+      "Rocky", 
+      "Janet", 
+      "James \\n\\tGarcia", 
+      " Cristina", 
+      "Ben", 
+      "Patrick", 
+      "Richard S. \\n\\tGray", 
+      " Adam C.", 
+      "Ed \\n\\tHern\u00e1ndez", 
+      " Roger", 
+      "Jim \\n\\tPavley", 
+      " Fran \\n\\tPerea", 
+      " Henry T.", 
+      "Patricia", 
+      "Eric \\n\\tLiu", 
+      " Carol", 
+      "Bill Information\\n", 
+      "Mike A.", 
+      "Mike", 
+      "Travis", 
+      "Philip Y. \\n\\tVidak", 
+      " Andy", 
+      "Mark", 
+      "Anthony", 
+      "William P. \\n\\tBrown", 
+      " Cheryl", 
+      "Rudy", 
+      "Jim \\n\\tFuller", 
+      " Jean \\n\\tGaines", 
+      " Beth B.", 
+      "Steve \\n\\tLackey", 
+      " Tom \\n\\tLara", 
+      " Ricardo \\n\\tLeno", 
+      " Mark \\n\\tLevine", 
+      " Marc", 
+      "Richard \\n\\tBonilla", 
+      " Susan A.", 
+      "Shannon", 
+      "Benjamin", 
+      "Tom \\n\\tBigelow", 
+      " Franklin E. \\n\\tBlock", 
+      " Marty", 
+      "David \\n\\tHall III", 
+      " Isadore", 
+      "Bill", 
+      "Joel", 
+      "Shirley N.", 
+      "Jose \\n\\tMelendez", 
+      " Melissa A. \\n\\tMendoza", 
+      " Tony \\n\\tMitchell", 
+      " Holly", 
+      "Miguel \\n\\tSteinorth", 
+      " Marc", 
+      "Robert M. \\n\\tHill", 
+      " Jerry \\n\\tHolden", 
+      " Chris R.", 
+      "Jimmy \\n\\tGonzalez", 
+      " Lorena", 
+      "Eduardo", 
+      "Ian", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "Chad", 
+      "Rocky"
+    ], 
+    "NER_PRESSURE": [
+      "7b", 
+      "22b", 
+      "0b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "Search", 
+      "Search \\n"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      ""
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424620335000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Senator Block", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California", 
+      "California Community Colleges"
+    ], 
+    "NER_PRESSURE": [
+      "49b", 
+      "32b", 
+      "3b", 
+      "2b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "Commission on State Mandates", 
+      "California Technology Assistance Projects", 
+      " the California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "California Technology Assistance\\n\\t\\t\\t\\t Project.", 
+      "State Department of", 
+      "Board of Governors", 
+      "Donahoe Higher Education Act", 
+      "", 
+      "University of California.", 
+      "Senate", 
+      "LEGISLATIVE COUNSEL'S DIGEST SB", 
+      "California Community Colleges", 
+      "University of California\u2019s", 
+      "Intersegmental General Education Transfer Curriculum. (b)\u00a0The", 
+      "Intersegmental General Education Transfer Curriculum", 
+      "California Virtual", 
+      "California Community Colleges", 
+      " the California State University", 
+      " the University", 
+      "Government Code.", 
+      "University of California", 
+      "California Virtuay", 
+      "California Community Colleges. Provisions", 
+      "California Community Colleges.", 
+      "University of California", 
+      " the California State University", 
+      "", 
+      "California Virtual Campus.", 
+      "California Community Colleges", 
+      " the California State University", 
+      "", 
+      "University of California", 
+      " the California State University", 
+      "California Virtual Campus", 
+      "", 
+      "Legislative Analyst\u2019s Office", 
+      "California Constitution", 
+      "California State Library", 
+      "", 
+      "Education Code", 
+      "", 
+      "Legislature", 
+      "California Virtual Campus", 
+      "General Fund", 
+      "California Technology\\n\\t\\t\\t\\t Assistance Project", 
+      "", 
+      "California State University", 
+      "", 
+      "Division", 
+      "California State University.", 
+      "Community Colleges"
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "11 regional California", 
+      "3 of of", 
+      "5 of the", 
+      "12 model online", 
+      "12 pursuant to", 
+      "9795 of the", 
+      "2 of the", 
+      "5 of Title", 
+      "10 of the", 
+      "2014 REGULAR SESSION", 
+      "40 of Division", 
+      "3 of the", 
+      "547 Public postsecondary", 
+      "4 of Title", 
+      "12 public schools", 
+      "12 online courses", 
+      "30 of the", 
+      "3 segments for"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424627205000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "1b", 
+      "8573522b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "State Budget", 
+      "", 
+      "State Court Facilities Construction Fund", 
+      "", 
+      "Civil Representation Pilot Program.", 
+      "Court Facilities Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 109", 
+      "809", 
+      "000 Schedule:", 
+      "Assembly Committee", 
+      "Senate", 
+      "General Fund.", 
+      "Administrative Office of", 
+      "Court Appointed Counsel Program", 
+      "Department of Finance", 
+      "Mental Health Services Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Assembly Members\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund", 
+      "Court Operations\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Court Facilities Construction Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Public Works Board", 
+      "Government Code.", 
+      "Government Code", 
+      "", 
+      "Joint Legislative Budget Committee", 
+      "Senate Committee", 
+      "State Treasury", 
+      "Judicial Branch Workers\u2019 Compensation Fund", 
+      "California Habeas Corpus Resource Center.", 
+      "Central Service Cost Recovery Fund", 
+      "California Highway Patrol)", 
+      "Federal Trust Fund (Item", 
+      "Department of Finance.", 
+      "Joint Legislative Budget Committee", 
+      "", 
+      "Department of Finance", 
+      "", 
+      "State Trial Court Improvement", 
+      "Office of the", 
+      "Legislature", 
+      "Office of Real Estate", 
+      "Appellate Court Trust Fund", 
+      "", 
+      "Judicial Council", 
+      "Court Interpreters\u2019 Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "State Treasury.", 
+      "LEGISLATIVE COUNSEL'S DIGEST AB 110", 
+      " Blumenfield.\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t Budget Act", 
+      "Assembly", 
+      "Motor Vehicle Account", 
+      " State Transportation Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "General Fund", 
+      "Federal Trust Fund\\n\\t\\t\\t........................\\n\\t\\t", 
+      "Court Interpreters\u2019 Fund", 
+      "Vehicle Account", 
+      " State Transportation Fund)", 
+      "Appellate Court Trust Fund (Item 0250-001-3060)\\n\\t\\t\\t........................\\n\\t\\t \u22126", 
+      "597", 
+      "000 Provisions:", 
+      "Central Service Cost Recovery Fund\\n\\t\\t\\t........................\\n\\t\\t 15", 
+      "982", 
+      "000 \\n\\t\\t\\t Judicial", 
+      "Administrative", 
+      "Appellate Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 6", 
+      "597", 
+      "000 Provisions:", 
+      "Trial Court Trust Fund\\n\\t\\t\\t........................\\n\\t\\t 35", 
+      "444", 
+      "000 Schedule:", 
+      "Budget Bill. Digest Key", 
+      "Senate Operating Fund."
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "1284 of the", 
+      "13338 of the", 
+      "30 days after", 
+      "10 of the", 
+      "60 days prior", 
+      "000 is available", 
+      "000 of the", 
+      "30 that are", 
+      "70352 of the", 
+      "000 for recovery", 
+      "70374 of the", 
+      "110 Budget Act", 
+      "12 of Article", 
+      "11 of\\n\\t\\t\\t Item", 
+      "0001 to provide", 
+      "1286 of the", 
+      "14 fiscal year"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }, 
+  "1424620645000.xhtml": {
+    "NER_PERSON": [
+      "Bill", 
+      "Bill Text Bill Information", 
+      "Bill Information\\n", 
+      "Bill Analysis\\n", 
+      "Bill Start", 
+      "Bill Search\\n"
+    ], 
+    "NER_DISTANCE": [
+      ""
+    ], 
+    "NER_TEMPERATURE": [
+      ""
+    ], 
+    "NER_PERCENTAGE": [
+      ""
+    ], 
+    "NER_LOCATION": [
+      "United States", 
+      "California"
+    ], 
+    "NER_PRESSURE": [
+      "0b", 
+      "40b", 
+      "26b"
+    ], 
+    "NER_WEIGHT": [
+      ""
+    ], 
+    "NER_ORGANIZATION": [
+      "State Department of Public Health", 
+      "Legislature", 
+      "University of California\u2019s", 
+      "Assembly", 
+      "Research Act.", 
+      "Digest Key", 
+      "Department of General Services", 
+      "Education", 
+      "Senate", 
+      "State Department of Public Health. Existing", 
+      "LEGISLATIVE COUNSEL'S DIGEST AB", 
+      "State Department of Public Health.(2013-2014)\\n", 
+      "Research", 
+      "State Department of Public Health."
+    ], 
+    "NER_HEAT": [
+      ""
+    ], 
+    "NER_DUMMY": [
+      "12 months after", 
+      "101 of Title", 
+      "66408 of the", 
+      "3 of Title", 
+      "17 of the", 
+      "5 of y", 
+      "2 of the", 
+      "5 of Division"
+    ], 
+    "NER_SPEED": [
+      ""
+    ], 
+    "NER_TIME": [
+      ""
+    ]
+  }
+}

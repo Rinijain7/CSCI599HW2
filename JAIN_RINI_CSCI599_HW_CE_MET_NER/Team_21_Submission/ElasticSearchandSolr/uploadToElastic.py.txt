@@ -1,0 +1,43 @@
+import requests
+import json
+import time
+
+with open('outputAuthors.json') as jsonfile:
+    json_data = json.load(jsonfile)
+url = "http://localhost:9200/polardataset/authors/"
+for author in json_data["authors"]:
+    print "Uploading: "
+    print json.dumps(author)
+    time.sleep(1)
+    res = requests.post(url, data=json.dumps(author))
+    print res
+jsonfile.close()
+
+print "-------------------------------------------"
+
+with open('outputPublications.json') as jsonfile:
+    json_data = json.load(jsonfile)
+url = "http://localhost:9200/polardataset/publications/"
+for publ in json_data["publications"]:
+    print "Uploading: "
+    print json.dumps(publ)
+    time.sleep(1)
+    res = requests.post(url, data=json.dumps(publ))
+    print res
+jsonfile.close()
+
+print "-------------------------------------------"
+
+with open('outputLocations.json') as jsonfile:
+    json_data = json.load(jsonfile)
+
+url = "http://localhost:9200/polardataset/locations/"
+for loc in json_data["locations"]:
+    print "Uploading: "
+    print json.dumps(loc)
+    time.sleep(1)
+    res = requests.post(url, data=json.dumps(loc))
+    print res
+jsonfile.close()
+
+

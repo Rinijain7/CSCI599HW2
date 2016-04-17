@@ -1,0 +1,35 @@
+import os
+import time
+from subprocess import Popen, PIPE
+
+#directory = "$HOME/Kukku/scripts"
+def get_filepaths(directory):
+    f = open('output.json','w')
+    json_string = "{\"locations\": [";
+    f.write(json_string)
+    os.chdir(directory)
+    file_paths = []  # List which will store all of the full filepaths.
+    #json_string = "{\"urls\": [";	
+    #counter = 0
+    # Walk the tree.
+    for root, directories, files in os.walk(directory):
+        for filename in files:
+            file_paths.append(filename)
+            original = filename
+            tmp = 'test.geot'
+            print(filename)
+            os.rename(filename, tmp)
+            output = Popen(['curl','--silent','-T',"test.geot",'-H',"Content-Disposition: attachment; filename=test.geot",'http://localhost:9998/rmeta'],stdout=PIPE).communicate()[0]	  
+            output = output[1:-1]
+            output = output.replace("test.geot",original)
+            if "LATITUDE" in output:
+                json_string = json_string+output+","
+                f.write(output)
+                f.write(",")
+            os.rename(tmp, original)
+    json_string = json_string[:-1]
+    json_string+="]}"
+    #print(json_string)
+    f.write("]}")
+    f.close()
+get_filepaths("/Users/nisharazack/Desktop/geot/")

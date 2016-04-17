@@ -1,0 +1,44 @@
+import os
+import httplib2
+import requests
+import time
+import json
+
+def get_filepaths(directory):
+
+    file_paths = []  # List which will store all of the full filepaths.
+    text_file = open("videoData.json", "w")
+    #json_string = "{\"urls\": [";	
+    text_file.write("{\"urls\": [")
+    counter = 0
+    # Walk the tree.
+    for root, directories, files in os.walk(directory):
+        for filename in files:
+            # Join the two strings in order to form the full filepath.
+	    counter+= 1
+            filepath = os.path.join(root, filename)
+            file_paths.append(filepath)  # Add it to the list.
+	    #filepath = filepath.replace("/var/www/html","polar.usc.edu")
+	    print(counter)	  
+	    longurl = "http://localhost/yourls-api.php?action=shorturl&format=json&url=" + filepath
+	    print('Long URL'+longurl)
+	    resp = requests.get(longurl).content
+	    data = json.loads(resp)
+	    #temp = "{\"id\":"+str(counter)+",\"longURL\":\""+filepath+"\",\"shortURL\":\""+data['shorturl']+"\"},"
+	    temp = "{\"id\":\""+filename+"\",\"longURL\":\""+filepath+"\",\"shortURL\":\""+data['shorturl']+"\"},"
+            text_file.write(temp)	    
+	    #json_string+=temp
+	    #print(json_string)
+	    #print('Short URL'+data['shorturl'])
+            time.sleep(20)		
+    #json_string = json_string[:-1]
+    #json_string+="]}"
+    text_file.write("]}")
+    #print(json_string)
+    text_file.close()
+
+# Run the above function and store its results in a variable.   
+#full_file_paths = get_filepaths("/var/www/html/sorteddata/application/pdf")
+get_filepaths("/home/vinds/Kukku/Data/video/")
+
+

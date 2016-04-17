@@ -1,0 +1,396 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "access_permission:can_modify",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:extract_content",
+                    "size": 1
+                },
+                {
+                    "name": "producer",
+                    "size": 1
+                },
+                {
+                    "name": "Author",
+                    "size": 1
+                },
+                {
+                    "name": "dc:title",
+                    "size": 1
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 1
+                },
+                {
+                    "name": "Application",
+                    "size": 1
+                },
+                {
+                    "name": "xmp:CreatorTool",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:can_print",
+                    "size": 1
+                },
+                {
+                    "name": "resourceName",
+                    "size": 1
+                },
+                {
+                    "name": "meta:author",
+                    "size": 1
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:extract_for_accessibility",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:fill_in_form",
+                    "size": 1
+                },
+                {
+                    "name": "pdf:encrypted",
+                    "size": 1
+                },
+                {
+                    "name": "creator",
+                    "size": 1
+                },
+                {
+                    "name": "dc:format",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:can_print_degraded",
+                    "size": 1
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:assemble_document",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 1
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 1
+                },
+                {
+                    "name": "date",
+                    "size": 1
+                },
+                {
+                    "name": "created",
+                    "size": 1
+                },
+                {
+                    "name": "dc:creator",
+                    "size": 1
+                },
+                {
+                    "name": "modified",
+                    "size": 1
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:modify_annotations",
+                    "size": 1
+                },
+                {
+                    "name": "pdf:PDFVersion",
+                    "size": 1
+                },
+                {
+                    "name": "xmpTPg:NPages",
+                    "size": 1
+                },
+                {
+                    "name": "title",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 1
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 1
+                }
+            ],
+            "name": "cluster0"
+        },
+        {
+            "children": [
+                {
+                    "name": "access_permission:can_modify",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:extract_content",
+                    "size": 1
+                },
+                {
+                    "name": "producer",
+                    "size": 1
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 1
+                },
+                {
+                    "name": "xmp:CreatorTool",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:can_print",
+                    "size": 1
+                },
+                {
+                    "name": "resourceName",
+                    "size": 1
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:extract_for_accessibility",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:fill_in_form",
+                    "size": 1
+                },
+                {
+                    "name": "pdf:encrypted",
+                    "size": 1
+                },
+                {
+                    "name": "dc:format",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:can_print_degraded",
+                    "size": 1
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:assemble_document",
+                    "size": 1
+                },
+                {
+                    "name": "trapped",
+                    "size": 1
+                },
+                {
+                    "name": "pdf:PDFExtensionVersion",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 1
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 1
+                },
+                {
+                    "name": "date",
+                    "size": 1
+                },
+                {
+                    "name": "created",
+                    "size": 1
+                },
+                {
+                    "name": "modified",
+                    "size": 1
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:modify_annotations",
+                    "size": 1
+                },
+                {
+                    "name": "pdf:PDFVersion",
+                    "size": 1
+                },
+                {
+                    "name": "xmpTPg:NPages",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 1
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 1
+                }
+            ],
+            "name": "cluster1"
+        },
+        {
+            "children": [
+                {
+                    "name": "access_permission:can_modify",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:extract_content",
+                    "size": 1
+                },
+                {
+                    "name": "producer",
+                    "size": 1
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 1
+                },
+                {
+                    "name": "xmp:CreatorTool",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:can_print",
+                    "size": 1
+                },
+                {
+                    "name": "resourceName",
+                    "size": 1
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:extract_for_accessibility",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:fill_in_form",
+                    "size": 1
+                },
+                {
+                    "name": "pdf:encrypted",
+                    "size": 1
+                },
+                {
+                    "name": "dc:format",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:can_print_degraded",
+                    "size": 1
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:assemble_document",
+                    "size": 1
+                },
+                {
+                    "name": "trapped",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 1
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 1
+                },
+                {
+                    "name": "date",
+                    "size": 1
+                },
+                {
+                    "name": "created",
+                    "size": 1
+                },
+                {
+                    "name": "modified",
+                    "size": 1
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:modify_annotations",
+                    "size": 1
+                },
+                {
+                    "name": "pdf:PDFVersion",
+                    "size": 1
+                },
+                {
+                    "name": "xmpTPg:NPages",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 1
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 1
+                }
+            ],
+            "name": "cluster2"
+        }
+    ],
+    "name": "clusters"
+}

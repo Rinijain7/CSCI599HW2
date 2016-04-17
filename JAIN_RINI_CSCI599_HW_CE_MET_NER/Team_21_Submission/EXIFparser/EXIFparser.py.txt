@@ -1,0 +1,33 @@
+import os
+import httplib2
+import requests
+import time
+import json
+
+def get_filepaths(directory):
+    """
+    This function will generate the file names in a directory 
+    tree by walking the tree either top-down or bottom-up. For each 
+    directory in the tree rooted at directory top (including top itself), 
+    it yields a 3-tuple (dirpath, dirnames, filenames).
+    """
+    json_file = open("EXIFparserOUT.json", "w")
+    orgString = ""
+    bashCommand = "java -Dtika.config=exif-tika-config.xml -classpath $TIKA_APP org.apache.tika.cli.TikaCLI -m "
+    EXIFoutput = {}
+    for root, directories, files in os.walk(directory):
+        for filename in files:
+	    fileAttrib = {}
+            filepath = os.path.join(root, filename)
+ 	    print(filename)
+	    #os.system(bashCommand)
+	    output = os.popen(bashCommand+filepath).read()
+	    fileAttrib["videoAttribs"] = output.split('\n')
+	    EXIFoutput[filename] = fileAttrib
+	json.dump(EXIFoutput, json_file, indent=2)
+    json_file.close()
+# Run the above function and store its results in a variable.   
+#full_file_paths = get_filepaths("/var/www/html/sorteddata/application/pdf")
+get_filepaths("/home/vinds/Kukku/Data/video/video/mp4/")
+
+

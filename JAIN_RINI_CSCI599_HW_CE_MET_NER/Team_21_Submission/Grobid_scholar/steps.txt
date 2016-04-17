@@ -1,0 +1,12 @@
+1: First run the Grobid parser on the folder containing the files that will genrate ".tei.xml" files
+
+
+java -Xmx1024m -jar grobid-core/target/grobid-core-0.3.4-SNAPSHOT.one-jar.jar -gH ./grobid-home/ -gP ./grobid-home/config/grobid.properties -dIn ./papers/ -dOut out -exe processHeader
+
+
+
+2: Run "AuthorsGrobidXMLtoJSON.py" on the folder containing the generated ".tei.xml" files that will generate the "outputAuthors.json" file
+
+
+3: Run "InputToScholar.py" on "outputAuthors.json" file to fetch the results from Google Scholar using "scholar.py". It will generate "outputPublications.json" file
+

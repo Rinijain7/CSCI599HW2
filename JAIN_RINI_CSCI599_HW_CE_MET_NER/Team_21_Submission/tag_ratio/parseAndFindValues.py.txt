@@ -1,0 +1,117 @@
+import os
+import httplib2
+import requests
+import time
+import json
+
+get_filepaths("/home/vinds/Kukku/Samples/")
+
+def get_filepaths(directory):
+    """
+    This function will generate the file names in a directory 
+    tree by walking the tree either top-down or bottom-up. For each 
+    directory in the tree rooted at directory top (including top itself), 
+    it yields a 3-tuple (dirpath, dirnames, filenames).
+    """
+    json_file = open("data.json", "w")
+    regEXoutput = {}
+    dictagratio={}
+    bashCommand = "java -classpath $NER_RES:$TIKA_APP org.apache.tika.cli.TikaCLI --config=tika-config.xml -m "
+    for root, directories, files in os.walk(directory):
+        for filename in files:
+	    for line in filename:
+	        line.replace('<style>','')
+        	line.replace('</style>','')
+       		line.replace('<script>','')
+        	line.replace('</script>','')
+        	if len(line)==0:
+           	    dictagratio[num]=0
+           	    num+=1
+	        else:
+        	    line=line.rstrip('\n')
+            	    ctxt=0
+            	    ctag=0
+            	    cnt=0
+            	    begin=False
+            	    for f in line:
+                	if f =='<':
+                    	    begin=True
+	                if f =='>' and begin==True:
+                    	    ctag+=1
+                    	    ctxt=ctxt-cnt
+                    	    cnt=0
+                    	    begin=False
+                            continue
+	                if begin:
+        	            cnt=cnt+1
+        	            ctxt=ctxt+1
+
+	                if ctag==0:
+        	            dictagratio[num]=float(ctxt)
+        	        else:
+        	            dictagratio[num]=float(ctxt)/ctag
+        	        num=num+1
+    	    orgString = ""
+    	    locString = ""
+	    timeString = ""
+            percntString = ""
+	    personString = ""
+	    distString = ""
+	    tempString = ""
+            pressString = ""
+	    wghtString = ""
+	    heatString = ""
+            speedString = ""
+	    dumString = ""
+	    fileRegExoutput = {}
+            filepath = os.path.join(root, filename)
+	    output = os.popen(bashCommand+filepath).read()
+	    results = output.split('\n')
+	    for result in results:
+                if 'NER_ORGANIZATION' in result:
+		    orgString+=result[18:]+","
+                if 'NER_LOCATION' in result:
+		    locString+=result[14:]+","
+                if 'NER_TIME' in result:
+		    timeString+=result[10:]+","
+		if 'NER_PERCENTAGE' in result:
+		    percntString+=result[16:]+","
+		if 'NER_PERSON' in result:
+		    personString+=result[12:]+","
+    		if 'NER_DIST' in result:
+		    distString+=result[17:]+","
+    		if 'NER_TEMP' in result:
+		    tempString+=result[17:]+","
+    		if 'NER_PRES' in result:
+		    pressString+=result[17:]+","
+    		if 'NER_WGHT' in result:
+		    wghtString+=result[17:]+","
+    		if 'NER_HEAT' in result:
+		    heatString+=result[17:]+","
+    		if 'NER_SPEED' in result:
+		    speedString+=result[18:]+","
+    		if 'NER_DUM' in result:
+		    dumString+=result[21:]+","
+	    fileRegExoutput["NER_LOCATION"]=locString[:-1].split(",")
+            fileRegExoutput["NER_ORGANIZATION"]=orgString[:-1].split(",")
+            fileRegExoutput["NER_TIME"]=timeString[:-1].split(",")
+	    fileRegExoutput["NER_PERCENTAGE"]=percntString[:-1].split(",")
+            fileRegExoutput["NER_PERSON"]=personString[:-1].split(",")
+            fileRegExoutput["NER_DISTANCE"]=distString[:-1].split(",")
+	    print distString
+            fileRegExoutput["NER_TEMPERATURE"]=tempString[:-1].split(",")
+	    print tempString
+            fileRegExoutput["NER_PRESSURE"]=pressString[:-1].split(",")
+	    print pressString
+            fileRegExoutput["NER_WEIGHT"]=wghtString[:-1].split(",")
+	    print wghtString
+            fileRegExoutput["NER_HEAT"]=heatString[:-1].split(",")
+            fileRegExoutput["NER_SPEED"]=speedString[:-1].split(",")
+            fileRegExoutput["NER_DUMMY"]=dumString[:-1].split(",")
+            regEXoutput[filename] = fileRegExoutput
+            json.dump(regEXoutput, json_file, indent=2)
+    json_file.close()
+# Run the above function and store its results in a variable.   
+#full_file_paths = get_filepaths("/var/www/html/sorteddata/application/pdf")
+
+
